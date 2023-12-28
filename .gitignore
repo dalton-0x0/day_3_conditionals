@@ -1,2 +1,6 @@
 .idea
+<<<<<<< HEAD
 .venv
+=======
+.venv
+>>>>>>> 5d4ec21 (adds emoji after refactoring pycharm project)
